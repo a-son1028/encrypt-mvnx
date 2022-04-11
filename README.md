@@ -1,0 +1,1 @@
+To run this tool by command: node index.js 
